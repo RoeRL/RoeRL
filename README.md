@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoeRL
 - 👀 I’m interested in IoT and Game Developer
-- 🌱 I’m currently learning Audio Programming and Audio Mixing
+- 🌱 I’m currently learning Game Music and AI thingy
 - 📫 How to reach me bimo.17168@gmai.com
 
 <!---
