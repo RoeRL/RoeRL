@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm a Automation Engineering student focusing in Industrial Informatics field who develop things with code, tinkering with electronics, and automating systems.
+I'm a Automation Engineering student focusing on Industrial Informatics field who develop things with code, tinkering with electronics, and automating systems.
 
 
 ## 🛠️ Programming Languages & Tools
