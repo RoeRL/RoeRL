@@ -1,12 +1,12 @@
-# Hello, I'm Bimo Indracahya Nugroho (ROE) 👋
+# 💫 About Me:
+# Hello, I'm Bimo Indracahya Nugroho (ROE) 👋<br><br>## Who am I?<br><br>A normal human that want to create modern magic
 
-## Who am I?
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RoeRL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RoeRL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoeRL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-A normal human that want to create modern magic
+---
+[![](https://visitcount.itsvg.in/api?id=RoeRL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoeRL&show_icons=true&theme=tokyonight) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoeRL&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
